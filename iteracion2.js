@@ -1,3 +1,5 @@
+//Variables avanzadas
+
 // 1.1
 
 const character = {name: 'Jack Sparrow', age: 10};
